@@ -1,5 +1,5 @@
 # Random-Scratch-Project-Display
-This program picks a random project and shows the stats of the project like the name, creator, how many likes it has, and so fourth. Cannot run on an online programming website such as replit.com.
+This program picks a random project and shows the stats of the project like the name, creator, how many likes it has, and so fourth. It might not run properly on an online IDE like replit.com
 
 # Required Packages:
 **Scratchattach**
@@ -11,4 +11,3 @@ pip install scratchattach
 
 Yeah, that's it. Have fun!
 
-Oh wait! Download the main.py... you need it :)
